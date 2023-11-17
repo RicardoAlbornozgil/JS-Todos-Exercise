@@ -2,7 +2,7 @@
 A modifiable to-do list that saves items to local storage. 
 
 
-##Part 1
+## Part 1
 For this assignment you will be combining your knowledge of DOM access and events to build a todo app!
 
 As a user, you should be able to:
